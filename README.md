@@ -1,2 +1,2 @@
 # pruebaInicial
-Mi primer repositorio
+Mi primer repositorio. Ahora modifico desde el servidor remoto
